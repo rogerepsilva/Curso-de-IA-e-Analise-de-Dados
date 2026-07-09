@@ -21,3 +21,5 @@ Os códigos seguem a proposta de clean-code e estão adequados ao **PEP 8**.
 ``````````````#####`````````````
 Autour Siva Roger
 Coautor Tinelli Luiz 
+hj 0807
+
